@@ -20,7 +20,7 @@ if cantidad_entradas > 5:
 # Calcular el total final
 total_final = subtotal - descuento_total
 
-# Mostrar el resumen de la reserva
+# Mostrar el resumen de la reserva con todos los datos
 print("\nResumen de su reserva:")
 print(f"Nombre: {nombre}")
 print(f"Precio base por entrada: ${precio_base:.2f}")

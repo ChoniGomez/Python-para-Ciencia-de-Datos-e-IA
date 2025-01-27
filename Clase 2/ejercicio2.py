@@ -14,7 +14,7 @@ else:
 # Mensaje adicional si tiene beca
 mensaje_beca = "Tenés beneficios extra por tu beca." if posee_beca else ""
 
-# Mostrar el resumen
+# Mostrar el resumen con todos los datos
 print("\nResumen del estudiante:")
 print(f"Nombre: {nombre}")
 print(f"Calificación: {calificacion}")
